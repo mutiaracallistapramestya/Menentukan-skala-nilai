@@ -30,5 +30,6 @@ int main(){
 		cout << "A" << endl;
 	}
 	
+	
 	return 0;
 }
